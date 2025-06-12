@@ -1,11 +1,4 @@
-"""
-Discord Web Crawler Bot – Global Slash + Prefix Commands
-────────────────────────────────────────────────────────
-• All interactions are available both as `/slash` commands and legacy `!` prefix.
-• Global sync (may take up to 1 hour) – no guild IDs required.
-• Features: title, links, images, meta-description, text snippet, common-wordlist
-  directory discovery and directory-listing analysis.
-"""
+
 
 import os
 import re
